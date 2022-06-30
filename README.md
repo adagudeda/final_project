@@ -22,4 +22,3 @@
 - *matplotlib.pyplot*
 - *seaborn*
 - *requests*
-- *ClickHouse*
